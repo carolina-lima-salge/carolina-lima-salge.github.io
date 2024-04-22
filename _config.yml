@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines in the text below
   Carolina A. de Lima Salge's personal website.
 twitter_username: carolina_salge
 github_username: carolina-lima-salge
-minimal_mistakes_skin: "air" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "default" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
 # Build settings
