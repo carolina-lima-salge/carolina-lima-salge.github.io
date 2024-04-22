@@ -121,7 +121,7 @@ defaults:
 
 # Social
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#twitter-cards-and-facebook-open-graph
-# og_image: /images/default-thumb.png
+og_image: /images/eye.png
 
 # Analytics
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#analytics
@@ -131,6 +131,12 @@ analytics:
     tracking_id: "UA-76482472-1"
     anonymize_ip: false # default
 
+# Comments
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disqus
+#comments:
+#  provider: "disqus"
+#  disqus:
+#    shortname: "grantmcdermott-blog"
 
 category_archive:
   type: liquid
