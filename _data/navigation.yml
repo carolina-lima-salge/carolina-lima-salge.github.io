@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+  #- title: "Bio"
+  #  url: /bio/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Vita"
+    url: https://carolina-lima-salge.github.io/salge-vitae.pdf
+  
