@@ -29,6 +29,15 @@ github_username: carolina-lima-salge
 minimal_mistakes_skin: "air" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /blog/page:num
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 include:
   - _pages
 
@@ -55,7 +64,7 @@ plugins:
 
 author:
   name   : "Carolina A. de Lima Salge"
-  avatar : "/images/salge2.jpg"
+  avatar : "/assets/images/salge2.jpg"
   bio    : 
     Assistant Professor at UGA. Interested in bots and social networks.
   links:
@@ -112,7 +121,7 @@ defaults:
 
 # Social
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#twitter-cards-and-facebook-open-graph
-og_image: /images/eye.png
+og_image: /assets/images/eye.png
 
 # Analytics
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#analytics
