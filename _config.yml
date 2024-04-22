@@ -121,7 +121,7 @@ defaults:
 
 # Social
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#twitter-cards-and-facebook-open-graph
-og_image: /assets/images/eye.png
+og_image: /assets/images/default-thumb.png
 
 # Analytics
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#analytics
