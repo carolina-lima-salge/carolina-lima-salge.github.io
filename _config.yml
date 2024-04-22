@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Grant R. McDermott
-url: https://grantmcdermott.com
+title: Carolina A. de Lima Salge
+url: https://carolina-lima-salge.github.io
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.
 
-# repository: grantmcdermott/grantmcdermott.github.io
+# repository: https://carolina-lima-salge.github.io
 github: [metadata]
-email: gmcd@amazon.com
+email: calsalge@uga.edu
 description: >- # this means to ignore newlines in the text below
-  Grant McDermott's personal website.
-twitter_username: grant_mcdermott
-github_username: grantmcdermott
+  Carolina A. de Lima Salge's personal website.
+twitter_username: carolina_salge
+github_username: carolina-lima-salge
 minimal_mistakes_skin: "default" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
@@ -63,39 +63,38 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Grant McDermott"
-  avatar : "/assets/images/mcdermott400sq-s.jpg"
+  name   : "Carolina A. de Lima Salge"
+  avatar : "/images/salge2.jpg"
   bio    : 
-    Principal Economist at Amazon. 
-    Interested in environmental economics, tech & data science.
+    Assistant Professor at UGA. Interested in bots and social networks.
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://grantmcdermott.com"
+      url: "https://carolina-lima-salge.github.io"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:gmcd@amazon.com"
+      url: "mailto:calsalge@uga.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/grant_mcdermott"
+      url: "https://twitter.com/carolina_salge"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/grantmcdermott"
+      url: "https://github.com/carolina-lima-salge"
     - label: "Scholar"
       icon: "ai ai-google-scholar"
-      url: "http://scholar.google.com/citations?user=EruWDMwAAAAJ"
+      url: "https://scholar.google.com/citations?hl=en&user=pVIJlJ4AAAAJ"
     - label: "ORCID"
       icon: "ai ai-orcid"
-      url: "http://orcid.org/0000-0001-7883-8573"
+      url: "http://orcid.org/0000-0001-9525-2128"
       
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/grant_mcdermott"
+      url: "https://twitter.com/carolina_salge"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/grantmcdermott"
+      url: "https://twitter.com/carolina_salge"
 
 defaults:
   # _posts
@@ -122,7 +121,7 @@ defaults:
 
 # Social
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#twitter-cards-and-facebook-open-graph
-og_image: /assets/images/default-thumb.png
+# og_image: /images/default-thumb.png
 
 # Analytics
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#analytics
@@ -134,10 +133,10 @@ analytics:
 
 # Comments
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disqus
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "grantmcdermott-blog"
+#comments:
+#  provider: "disqus"
+#  disqus:
+#    shortname: "grantmcdermott-blog"
 
 category_archive:
   type: liquid
